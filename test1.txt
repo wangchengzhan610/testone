@@ -1,6 +1,10 @@
 aasdasdasdasdas
 jiadianerdongx
+<<<<<<< HEAD
 wasadasd
+=======
+aasda
+>>>>>>> test
 asd
 a
 b
